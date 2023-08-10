@@ -1,0 +1,15 @@
+#myButton {
+    background-color: mediumorchid !important; 
+    color: white !important;
+    width: 50% !important;
+    height: 10vw !important;
+    border-color: transparent !important;
+    margin: 25% !important;
+}
+
+button {
+    background-color: mediumorchid;
+    color: white;
+    border-color: transparent; 
+    margin: 2%;
+}
